@@ -10,4 +10,9 @@
     <string name="school">School:</string>
     <string name="email">E-Mail:</string>
     <string name="phone">Phone:</string>
+    <string name="studentid1">Student ID</string>
+    <string name="school1">School</string>
+    <string name="email1">E-Mail</string>
+    <string name="phone1">Phone</string>
+    <string name="register">Register</string>
 </resources>
