@@ -165,7 +165,8 @@
             android:layout_weight="2"
             android:ems="10"
             android:hint="@string/phone1"
-            android:inputType="phone" />
+            android:inputType="phone"
+            tools:ignore="TouchTargetSizeCheck" />
 
     </LinearLayout>
 
